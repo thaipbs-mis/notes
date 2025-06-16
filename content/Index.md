@@ -1,4 +1,0 @@
-## INDEX FILE
-- README
-- README 2
-  
